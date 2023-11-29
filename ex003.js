@@ -50,7 +50,7 @@ console.log([
     }
     
     console.log(validarIdade(20))
-console.log(validarIdade(15))
+
 
 
 
